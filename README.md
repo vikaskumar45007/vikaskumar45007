@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Vikas Kumar
-- 👀 I’m interested in machine learning,A.I, and web development
-- 🌱 I’m currently learning machine learning and web development
-- 💞️ I’m looking to collaborate on 
+- 👀 I’m interested in Python, machine learning and A.I.
+- 🌱 I’m currently learning machine learning in python.
+- 💞️ I’m looking to collaborate on open source issues.
 - 📫 reach me with vikaskumar45007@gmail.com
 
 <!---
